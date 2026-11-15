@@ -1,6 +1,22 @@
 # LUNAR EDGE | Mission Opportunity & Constraint Analysis System
 
 <div align="center">
+# LUNAR EDGE | Mission Opportunity & Constraint Analysis System
+
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Explore_LUNAR_EDGE-0B3D91?style=for-the-badge)](https://lunar-edge-seven.vercel.app/)
+
+🌐 **Live Website:** [Explore LUNAR EDGE](https://lunar-edge-seven.vercel.app/)
+
+<div align="center">
+
+<!-- Your existing NASA, Python, FastAPI and React badges -->
+
+</div>
+
+<p align="center">
+  <strong>🌐 Live Website:</strong>
+  <a href="https://lunar-edge-seven.vercel.app/">Visit LUNAR EDGE</a>
+</p>
 
 ![NASA Space Apps Challenge 2026](https://img.shields.io/badge/NASA%20Space%20Apps-2026%20Challenge-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
 ![Build Status](https://img.shields.io/badge/Test%20Suite-114%20Passed-success?style=for-the-badge&logo=pytest&logoColor=white)
