@@ -66,12 +66,7 @@ class SPICEService:
         with cls._lock:
             if cls._instance is None:
                 cls._instance = super().__new__(cls)
-                cls._instance._init_service()
             return cls._instance
-
-    def _init_service(self) -> None:
-        """Initialize and verify kernels."""
-        self.load_kernels()
 
     def load_kernels(self, force_reload: bool = False) -> None:
         """Load all required kernels into the SPICE pool."""

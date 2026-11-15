@@ -14,7 +14,6 @@ scipy==1.14.1
 rasterio==1.4.3
 pyproj==3.7.0
 shapely==2.0.6
-gdal==3.10.0; platform_system == "Linux"
 
 # SPICE toolkit (Python wrapper)
 spiceypy==6.0.0

@@ -170,16 +170,24 @@ class MissionEngine:
         start_utc: str,
         duration_days: float = 14.0,
         step_minutes: float = 30.0,
+        max_slope_deg: float = 15.0,
+        horizon_radius_km: float = 20.0,
         requirements: Optional[MissionRequirements] = None,
     ) -> ContinuityEnvelopeResult:
         """
         Runs the Mission Continuity Envelope robustness analysis.
+
+        Uses configurable slope constraints and terrain horizon radius
+        to maintain consistency with master mission evaluation.
         """
+
         return self.continuity_engine.evaluate_continuity_envelope(
             site=site,
             start_utc=start_utc,
             duration_days=duration_days,
             step_minutes=step_minutes,
+            max_slope_deg=max_slope_deg,
+            horizon_radius_km=horizon_radius_km,
             requirements=requirements,
         )
 

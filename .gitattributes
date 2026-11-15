@@ -1,0 +1,2 @@
+backend/data/raw/lola/LDEM_80S_80MPP_ADJ.TIF filter=lfs diff=lfs merge=lfs -text
+backend/data/kernels/de440s.bsp filter=lfs diff=lfs merge=lfs -text
