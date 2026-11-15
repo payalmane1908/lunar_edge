@@ -3,7 +3,7 @@
 <div align="center">
 Live Demo ()
 
-🌐 Live Website: https://lunar-edge-
+🌐 Live Website: https://lunar-edge-seven.vercel.app/
 </div>
 
 ![NASA Space Apps Challenge 2026](https://img.shields.io/badge/NASA%20Space%20Apps-2026%20Challenge-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
