@@ -1,7 +1,7 @@
 # LUNAR EDGE | Mission Opportunity & Constraint Analysis System
 
 <div align="center">
-[![🚀 LIVE DEMO](https://img.shields.io/badge/%F0%9F%9A%80_LIVE_DEMO-Explore_LUNAR_EDGE-0B3D91?style=for-the-badge)](https://lunar-edge-seven.vercel.app/)
+[Live Demo](https://lunar-edge-seven.vercel.app/) ([![🚀 LIVE DEMO](https://img.shields.io/badge/%F0%9F%9A%80_LIVE_DEMO-Explore_LUNAR_EDGE-0B3D91?style=for-the-badge)](https://lunar-edge-seven.vercel.app/))
 
 **🌐 Live Website:** [https://lunar-edge-seven.vercel.app/](https://lunar-edge-seven.vercel.app/)
 </div>
