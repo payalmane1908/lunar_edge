@@ -1,9 +1,8 @@
 # LUNAR EDGE | Mission Opportunity & Constraint Analysis System
 
 <div align="center">
-Live Demo ()
-
-🌐 Live Website: https://lunar-edge-seven.vercel.app/
+**[![🚀 LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-Explore_LUNAR_EDGE-0B3D91?style=for-the-badge&logo=vercel&logoColor=white)](https://lunar-edge-seven.vercel.app/)**\
+**🌐 Live Website:** [![Website](https://img.shields.io/badge/Visit-LUNAR_EDGE-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lunar-edge-seven.vercel.app/)**
 </div>
 
 ![NASA Space Apps Challenge 2026](https://img.shields.io/badge/NASA%20Space%20Apps-2026%20Challenge-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
