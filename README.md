@@ -3,10 +3,7 @@
 <div align="center">
 # LUNAR EDGE | Mission Opportunity & Constraint Analysis System
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Explore_LUNAR_EDGE-0B3D91?style=for-the-badge)](https://lunar-edge-seven.vercel.app/)
-
-🌐 **Live Website:** [Explore LUNAR EDGE](https://lunar-edge-seven.vercel.app/)
-
+[![🚀 LIVE DEMO](https://img.shields.io/badge/🚀_LIVE_DEMO-Explore_LUNAR_EDGE-0B3D91?style=for-the-badge)](https://lunar-edge-seven.vercel.app/)
 <div align="center">
 
 <!-- Your existing NASA, Python, FastAPI and React badges -->
